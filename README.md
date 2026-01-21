@@ -9,7 +9,7 @@
 
 <div align="center">
   Hi! I'm <strong>Thilaga Muniyandi</strong> 🌸<br>
-  Aspiring <strong>Data Analyst</strong> | <strong>UI/UX Designer</strong> | Cloud Learner
+  <strong>Data Analyst Aspirant</strong> | <strong>UI/UX Designer</strong> | <strong>Cloud Learner</strong>
 </div>
 
 ---
@@ -20,16 +20,18 @@
   <tr>
     <td width="70%">
       <ul>
-        <li>🎓 College Student (B.E / B.Tech)</li>
-        <li>📊 Aspiring <strong>Data Analyst</strong></li>
-        <li>🎨 Passionate <strong>UI/UX Designer</strong></li>
-        <li>☁️ Learning AWS Cloud & Analytics</li>
-        <li>🌱 Currently learning: SQL, Java</li>
+        <li>🎓 B.E / B.Tech Student</li>
+        <li>📊 Passionate about <strong>Data Analysis & Insights</strong></li>
+        <li>🎨 UI/UX Designer focused on user-centered design</li>
+        <li>☁️ Learning <strong>AWS Cloud & Analytics</strong></li>
+        <li>🌱 Currently learning: <strong>SQL, Java</strong></li>
         <li>💬 Ask me about: Data Analysis, UI/UX, GitHub</li>
       </ul>
     </td>
     <td align="center">
-      <img width="200" src="https://avatars.githubusercontent.com/u/9919?s=200&v=4" alt="Profile Image"/>
+      <img width="200"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+        alt="Profile Image"/>
     </td>
   </tr>
 </table>
@@ -54,11 +56,11 @@
 <h2>🌐 Connect with Me</h2>
 
 <p>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
-    <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg">
-  </a>
-  <a href="https://github.com/YOUR-GITHUB-USERNAME">
+  <a href="https://github.com/ThilagaMuniyandi">
     <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg">
+  </a>
+  <a href="https://www.linkedin.com/">
+    <img width="32" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg">
   </a>
 </p>
 
@@ -70,11 +72,11 @@
   <tr>
     <td>
       <img height="200"
-        src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=synthwave&hide_border=true"/>
+        src="https://github-readme-stats.vercel.app/api?username=ThilagaMuniyandi&theme=synthwave&show_icons=true&hide_border=true"/>
     </td>
     <td>
       <img height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=synthwave&hide_border=true"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThilagaMuniyandi&layout=compact&theme=synthwave&hide_border=true"/>
     </td>
   </tr>
 </table>
@@ -84,7 +86,7 @@
 <h2 align="center">⚡ GitHub Streak</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=YOUR-GITHUB-USERNAME&theme=synthwave&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com/?user=ThilagaMuniyandi&theme=synthwave&hide_border=true"/>
 </p>
 
 ---
@@ -92,7 +94,7 @@
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR-GITHUB-USERNAME&theme=juicyfresh&no-frame=true&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ThilagaMuniyandi&theme=juicyfresh&no-frame=true&column=7"/>
 </p>
 
 ---
@@ -100,4 +102,5 @@
 <p align="center">
 ✨ Built with 💻 by <strong>Thilaga Muniyandi</strong>
 </p>
+
 
